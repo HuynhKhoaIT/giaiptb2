@@ -1,0 +1,31 @@
+[33mcommit 7d0c4dd979734e502e823777d7e70ca6192dc133[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: HuynhKhoaIT <114349590+HuynhKhoaIT@users.noreply.github.com>
+Date:   Sun Feb 19 20:24:28 2023 +0700
+
+    cm
+
+[33mcommit 9b74ec3712662298cbb2b0f572a4b05933ac314c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HuynhKhoaIT <114349590+HuynhKhoaIT@users.noreply.github.com>
+Date:   Sun Feb 19 20:18:59 2023 +0700
+
+    aa
+
+[33mcommit 23e3fcd0d264557cb9a8fb1ff6871cbaa12e0319[m
+Author: HuynhKhoaIT <114349590+HuynhKhoaIT@users.noreply.github.com>
+Date:   Sun Feb 19 18:00:10 2023 +0700
+
+    Revert "update"
+    
+    This reverts commit aeadf59c31f1941e222b9f6d0ce96c26f2e3a3dd.
+
+[33mcommit aeadf59c31f1941e222b9f6d0ce96c26f2e3a3dd[m
+Author: HuynhKhoaIT <114349590+HuynhKhoaIT@users.noreply.github.com>
+Date:   Sun Feb 12 01:50:40 2023 +0700
+
+    update
+
+[33mcommit ac442f526b39180e4793739b0b8500c25ac4a350[m
+Author: HuynhKhoaIT <114349590+HuynhKhoaIT@users.noreply.github.com>
+Date:   Sun Feb 12 01:42:51 2023 +0700
+
+    first commit
